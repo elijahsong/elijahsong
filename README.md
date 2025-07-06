@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @elijahsong
-- 🌱 I attend Stanford University, where I'm pursuing a B.S. in Computer Science (System), an M.S. in Computer Science (AI) and minor in Music.
-- 📈 Currently working on scaling Coinbase International Exchange (spot, derivatives, perpetuals).
+- 🌱 Attending Stanford University (BS in Computer Science/Systems, MS in Computer Science/AI)
 <!--
 **elijahsong/elijahsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
